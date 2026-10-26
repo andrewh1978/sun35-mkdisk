@@ -26,3 +26,7 @@ cp sunos35.img /mnt/zuluscsi/HD0.img
 # Disclaimer
 
 Claude wrote this in its entirety.
+
+# Proof
+
+![Screenshot](sun.png)
