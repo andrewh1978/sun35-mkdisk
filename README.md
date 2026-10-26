@@ -29,4 +29,4 @@ Claude wrote this in its entirety.
 
 # Proof
 
-![Screenshot](sun.png)
+![Screenshot](sun.jpg)
